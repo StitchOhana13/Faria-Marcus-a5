@@ -21,6 +21,7 @@ public class AsteroidSpawner : MonoBehaviour
             Asteroid asteroid = newAsteroid.GetComponent<Asteroid>();
             asteroid.RandomizeStartVelocity = false;
             asteroid.MoveTowardsCentre();
+            //test
         }
     }
 }
