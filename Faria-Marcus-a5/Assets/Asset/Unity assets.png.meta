@@ -109,20 +109,20 @@ TextureImporter:
       name: Unity assets_0
       rect:
         serializedVersion: 2
-        x: 90
-        y: 1094
-        width: 388
-        height: 389
+        x: 89
+        y: 1093
+        width: 390
+        height: 391
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2497307a2649d9790800000000000000
-      internalID: -7521692651209131710
+      spriteID: 9b0f224f8ee13ca42b29dc88a254d865
+      internalID: 1094806389
       vertices: []
       indices: 
       edges: []
@@ -134,17 +134,17 @@ TextureImporter:
         x: 1112
         y: 1296
         width: 50
-        height: 50
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a9c86ae083908e780800000000000000
-      internalID: -8653656547623793510
+      spriteID: 7d8269f456ece96488416a69c9454d69
+      internalID: 1007031482
       vertices: []
       indices: 
       edges: []
@@ -156,17 +156,17 @@ TextureImporter:
         x: 1060
         y: 764
         width: 149
-        height: 262
+        height: 261
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6b17b0ce018609980800000000000000
-      internalID: -8534206871978151498
+      spriteID: 7ea1cf468eaa48b43a372ce23b17d1ab
+      internalID: -603828681
       vertices: []
       indices: 
       edges: []
@@ -175,7 +175,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e449353fb34a9054fab56c60017acdf4
     internalID: 0
     vertices: []
     indices: 
@@ -184,7 +184,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Unity assets_0: 1094806389
+      Unity assets_1: 1007031482
+      Unity assets_2: -603828681
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
